@@ -20,7 +20,7 @@
 					<h3 style="padding : 0; margin : 0;"> Tentang Website Pencari Kerja</h3>
 				</div>
 				<div class="panel-body">
-					Website ini bertujuan sebagai website pemberi kerja, dan juga sebagai studi kasus untuk belajar codeigniter.
+					Website ini bertujuan sebagai website pemberi kerja, dan untuk memenuhi tugas UTS oemrograman web lanjut.
 				</div>
 			</div>
 			<div class="panel panel-default" id="visi">

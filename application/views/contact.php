@@ -21,9 +21,9 @@
 				<div class="panel-body">
 					Terima kasih sudah mengunjungi website ini, apabila ada pertanyaan bisa hubungi beberapa kontak di bawah ini:
 					<br>
-					No HP : <b>08436xxxxx</b>
+					No HP : <b>08810273278900</b>
 					<br>
-					Email : <b>linkstudio@gmail.com</b>
+					Email : <b>sahrul.tayadih@gmail.com</b>
 				</div>
 			</div>
 		</div>

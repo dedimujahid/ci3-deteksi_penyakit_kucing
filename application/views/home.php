@@ -1,8 +1,9 @@
 <div class="jumbotron">
 	<div class="container">
-		<h1>Selamat datang di website pencari kerja</h1>
-	  	<p>Kami siap membantu anda dalam mencari pekerjaan dengan mudah. Dengan mendaftarkan diri anda , maka akan kami promosikan untuk mendapatkan pekerjaan sesuai yang anda inginkan</p>
-	  	<p><a class="btn btn-primary btn-lg" href="<?php echo site_url("daftar"); ?>" role="button">Daftar Kerja</a></p>
+		<h1>Selamat datang di website Deteksi Penyakit Kucing</h1>
+	  	<p>Kami siap membantu anda dalam Mendeteksi Penyakit Kucing Anda. Dengan mendaftarkan diri anda , maka akan kami promosikan untuk mendapatkan pekerjaan sesuai yang anda inginkan</p>
+				<p><a class = "btn btn-primary btn-lg" href = "<?php echo site_url("auth/login"); ?>" role = "button">Login</a></p>
+				<p><a class="btn btn-primary btn-lg" href="<?php echo site_url("daftar"); ?>" role="button">Daftar Kerja</a></p>
 	  	<p><a class="btn btn-primary btn-lg" href="<?php echo site_url("pendaftarkerja"); ?>" role="button">Lihat Pendaftar Kerja</a></p>
 	</div>
 </div>

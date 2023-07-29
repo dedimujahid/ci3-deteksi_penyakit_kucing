@@ -68,3 +68,7 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+CI-3 Tanpa Spark Serve lebih mudah dibobol
+
+Link website http://localhost:8080/ci3-deteksi_penyakit_kucing/
